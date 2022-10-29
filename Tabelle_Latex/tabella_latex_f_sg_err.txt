@@ -1,0 +1,10 @@
+\toprule 
+\textbf{	extit{Speed}} & $\vect{ \tilde{F} } {^{\vect{X}^{sel}}} \, [bpm]$ & ${{\vect{ \tilde{F} } }}{^{\vect{X}^{DT}}} \, [bpm]$ & ${{ \vect{ \tilde{F} } }}{^{\vect{X}^{GPC}}} \, [bpm]$\\ 
+\midrule 
+  0	&	 0.00\textpm0.00	&	 0.00\textpm0.00	 &	0.00\textpm0.00\\ 
+1.6	&	 0.30\textpm0.95	&	 0.30\textpm0.95	 &	0.30\textpm0.95\\ 
+3.0	&	 0.90\textpm4.01	&	 0.30\textpm4.99	 &	0.30\textpm4.99\\ 
+5.0	&	 -3.60\textpm13.55	&	 0.90\textpm2.47	 &	-2.70\textpm11.95\\ 
+6.6	&	 0.00\textpm0.00	&	 0.00\textpm0.00	 &	0.30\textpm0.95\\ 
+8.0	&	 0.60\textpm1.26	&	 0.60\textpm1.26	 &	0.60\textpm1.26\\ 
+\bottomrule 
